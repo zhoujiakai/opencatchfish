@@ -2,6 +2,10 @@
 
 安卓抓鱼小游戏。
 
+## 演示
+
+![游戏演示](demo.gif)
+
 - `client/` - Android 客户端（Java, Gradle）
 - `server/` - Java Servlet 后端（Tomcat）
 - `database/` - MySQL 建表脚本
