@@ -31,9 +31,6 @@ local.properties
 # Maven (if used by server)
 target/
 
-# Video
-*.mp4
-
 # Misc
 *.bak
 *.tmp
