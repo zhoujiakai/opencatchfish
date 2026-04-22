@@ -4,7 +4,7 @@
 
 ## 演示
 
-![游戏演示](demo.gif)
+![游戏演示](assets/demo.gif)
 
 - `client/` - Android 客户端（Java, Gradle）
 - `server/` - Java Servlet 后端（Tomcat）
