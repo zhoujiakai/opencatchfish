@@ -8,7 +8,7 @@
 
 - `client/` - Android 客户端（Java, Gradle）
 - `server/` - Java Servlet 后端（Tomcat）
-- `database/` - MySQL 建表脚本
+- `infra/database/` - MySQL 建表脚本
 
 ## 环境要求
 
@@ -19,7 +19,7 @@
 
 ## 快速开始
 
-1. 导入 `database/db_dondonqiang20.sql` 到 MySQL
+1. 导入 `infra/database/db_dondonqiang20.sql` 到 MySQL
 2. 修改 `server` 中数据库连接配置（`DBHelper.java`）
 3. 将 `server` 部署到 Tomcat
 4. 用 Android Studio 打开 `client`，编译运行

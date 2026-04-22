@@ -109,4 +109,4 @@ LoginActivity (启动)
   ```
   http://10.0.2.2:8080/DonDonQiang20_Server/
   ```
-- 确保后端服务器和数据库已正确启动（参见 `server/` 和 `database/` 目录的 README）
+- 确保后端服务器和数据库已正确启动（参见 `server/` 和 `infra/database/` 目录的 README）

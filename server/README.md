@@ -75,7 +75,7 @@ GET/POST /DonDonQiang20_Server/ListViewServlet
 
 ## 部署步骤
 
-1. 安装 MySQL 8.0，导入数据库（见 `database/README.md`）
+1. 安装 MySQL 8.0，导入数据库（见 `infra/database/README.md`）
 2. 安装 Tomcat 8.5+
 3. 使用 Eclipse 导入本项目（或手动将 `WebContent` 部署为 WAR）
 4. 根据实际环境修改 `DBHelper.java` 中的数据库连接参数：
